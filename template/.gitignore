@@ -1,0 +1,11 @@
+LOCAL.md
+tmp/
+*.tmp
+*.tmp.d
+
+# secrets / machine-local
+*.env
+*.key
+*.pem
+*_authorized_keys
+.DS_Store
